@@ -94,3 +94,19 @@ We ran all our experiments on NVIDIA RTX3090 GPUs with 24 GB memory. For inferen
 
 * **Will you provide the training code as well?** <br>
 No. The training code is tightly wound around the data which we cannot make public.
+
+## Supplementary information
+![supplementary_level](https://github.com/OishiLab/OpenMAP-T1-V1/assets/64403395/4b2ff22d-8c61-4b47-a141-53daf9b344c8)
+
+The OpenMAP-T1 parcellate the entire brain into five hierarchical structural levels, with the coarsest level comprising eight structures and the finest level comprising 280 structures. Changing these levels is easy using [ROIEditor](https://www.mristudio.org/installation.html).
+
+## Citation
+```
+@article{nishimaki2024openmap-t1,
+  title={OpenMAP-T1: A Rapid Deep-Learning Approach to Parcellate 280 Anatomical Regions to Cover the Whole Brain},
+  author={Kei Nishimaki, Kengo Onda, Kumpei Ikuta, Jill Chotiyanonta, Yuto Uchida, Susumu Mori, Hitoshi Iyatomi, Kenichi Oishi},
+  journal={~~~~},
+  year={2024},
+  publisher={~~~~}
+}
+```
