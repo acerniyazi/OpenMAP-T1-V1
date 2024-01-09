@@ -55,7 +55,11 @@ If you want to specify the GPU, please add ```--gpu```.
 python3 parcellation.py -i INPUR_DIRNAME -o OUTPUT_DIRNAME -m MODEL_DIRNAME --gpu 1
 ```
 
-### Folder
+## How to download the pretrained model.
+You can get the pretrained model from the this link.
+[Link of pretrained model](https://forms.office.com/Pages/ResponsePage.aspx?id=OPSkn-axO0eAP4b4rt8N7C3Ld6BZfoRAuE68LMZr0zFUMEhCMzZIR0RHNEpMTDlOVE1OV0tONkUyMy4u)
+
+## Folder
 All images you input must be in NifTi format and have a .nii extension.
 ```
 INPUR_DIRNAME/
@@ -83,10 +87,6 @@ MODEL_DIRNAME/
   └ HNet/
       └ HNet.pth
 ```
-
-## How to download the pretrained model.
-You can get the pretrained model from the this link.
-[Link of pretrained model](https://forms.office.com/Pages/ResponsePage.aspx?id=OPSkn-axO0eAP4b4rt8N7C3Ld6BZfoRAuE68LMZr0zFUMEhCMzZIR0RHNEpMTDlOVE1OV0tONkUyMy4u)
 
 ## FAQ
 * **How much GPU memory do I need to run OpenMAP-T1?** <br>
