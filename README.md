@@ -86,7 +86,7 @@ MODEL_DIRNAME/
 
 ## How to download the pretrained model.
 You can get the pretrained model from the this link.
-[Link of pretrained model](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/koishi2_jh_edu/EuPq_A0Pk1pJkTXWeKtX1XwB77fg9pEZVbVelSuTm3pwZw)
+[Link of pretrained model](https://forms.office.com/Pages/ResponsePage.aspx?id=OPSkn-axO0eAP4b4rt8N7C3Ld6BZfoRAuE68LMZr0zFUMEhCMzZIR0RHNEpMTDlOVE1OV0tONkUyMy4u)
 
 ## FAQ
 * **How much GPU memory do I need to run OpenMAP-T1?** <br>
