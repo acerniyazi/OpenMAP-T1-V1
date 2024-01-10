@@ -41,6 +41,8 @@ CUDA_VISIBLE_DEVICES=1 python3 parcellation.py -i INPUR_DIRNAME -o OUTPUT_DIRNAM
 You can get the pretrained model from the this link.
 [Link of pretrained model](https://forms.office.com/Pages/ResponsePage.aspx?id=OPSkn-axO0eAP4b4rt8N7Iz6VabmlEBIhG4j3FiMk75UQUxBMkVPTzlIQTQ1UEZJSFY1NURDNzRERC4u)
 
+![image](https://github.com/OishiLab/OpenMAP-T1-V1/assets/64403395/f50f89a3-f244-45c4-a378-e52dd2a2e9de)
+
 ## Folder
 All images you input must be in NifTi format and have a .nii extension.
 ```
