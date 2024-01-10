@@ -39,7 +39,7 @@ CUDA_VISIBLE_DEVICES=1 python3 parcellation.py -i INPUR_DIRNAME -o OUTPUT_DIRNAM
 
 ## How to download the pretrained model.
 You can get the pretrained model from the this link.
-[Link of pretrained model](https://forms.office.com/Pages/ResponsePage.aspx?id=OPSkn-axO0eAP4b4rt8N7C3Ld6BZfoRAuE68LMZr0zFUMEhCMzZIR0RHNEpMTDlOVE1OV0tONkUyMy4u)
+[Link of pretrained model](https://forms.office.com/Pages/ResponsePage.aspx?id=OPSkn-axO0eAP4b4rt8N7Iz6VabmlEBIhG4j3FiMk75UQUxBMkVPTzlIQTQ1UEZJSFY1NURDNzRERC4u)
 
 ## Folder
 All images you input must be in NifTi format and have a .nii extension.
