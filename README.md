@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## How to use it
 Using OpenMAP-T1 is straightforward. You can use it in any terminal on your linux system. We provide CPU as well as GPU support. Running on GPU is a lot faster though and should always be preferred. Here is a minimalistic example of how you can use OpenMAP-T1.
 ```
-python3 parcellation.py -i INPUR_DIRNAME -o OUTPUT_DIRNAME -m MODEL_DIRNAME
+python3 parcellation.py -i INPUT_DIRNAME -o OUTPUT_DIRNAME -m MODEL_DIRNAME
 ```
 If you want to specify the GPU, please add ```CUDA_VISIBLE_DEVICES=N```.
 ```
@@ -46,7 +46,7 @@ You can get the pretrained model from the this link.
 ## Folder
 All images you input must be in NifTi format and have a .nii extension.
 ```
-INPUR_DIRNAME/
+INPUT_DIRNAME/
   ├ A.nii
   ├ B.nii
   ├ *.nii
