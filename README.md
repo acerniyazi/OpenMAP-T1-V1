@@ -34,7 +34,7 @@ python3 parcellation.py -i INPUT_DIRNAME -o OUTPUT_DIRNAME -m MODEL_DIRNAME
 ```
 If you want to specify the GPU, please add ```CUDA_VISIBLE_DEVICES=N```.
 ```
-CUDA_VISIBLE_DEVICES=1 python3 parcellation.py -i INPUR_DIRNAME -o OUTPUT_DIRNAME -m MODEL_DIRNAME
+CUDA_VISIBLE_DEVICES=1 python3 parcellation.py -i INPUT_DIRNAME -o OUTPUT_DIRNAME -m MODEL_DIRNAME
 ```
 
 ## How to download the pretrained model.
